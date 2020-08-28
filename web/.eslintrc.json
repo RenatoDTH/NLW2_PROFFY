@@ -38,7 +38,8 @@
         "error",
         "ignorePackages",
         { "ts": "never", "tsx": "never" }
-      ]
+      ],
+      "react/jsx-one-expression-per-line": "off"
     },
     "settings": { "import/resolver": { "typescript": {} } }
 }
