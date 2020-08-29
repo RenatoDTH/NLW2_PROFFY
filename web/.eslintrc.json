@@ -39,7 +39,8 @@
         "ignorePackages",
         { "ts": "never", "tsx": "never" }
       ],
-      "react/jsx-one-expression-per-line": "off"
+      "react/jsx-one-expression-per-line": "off",
+      "camelcase":"off"
     },
     "settings": { "import/resolver": { "typescript": {} } }
 }
