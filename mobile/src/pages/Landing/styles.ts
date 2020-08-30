@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
     width: '48%',
     backgroundColor: '#333',
     borderRadius: 8,
-    padding: 24,
+    padding: 22,
     justifyContent: 'space-between',
   },
 
@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     fontSize: 12,
     lineHeight: 20,
     maxWidth: 140,
-    marginTop: 40,
+    marginTop: 30,
   },
 });
 
