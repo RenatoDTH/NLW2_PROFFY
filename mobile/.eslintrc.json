@@ -46,7 +46,8 @@
       "react/jsx-one-expression-per-line": "off",
       "camelcase":"off",
       "react-native/no-raw-text": "off",
-      "react/style-prop-object": "off"
+      "react/style-prop-object": "off",
+      "react/jsx-wrap-multilines": "off"
     },
     "settings": { "import/resolver": { "typescript": {} } }
 }
