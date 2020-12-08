@@ -1,6 +1,6 @@
 # NLW2_PROFFY
 Aplicativo desenvolvido com NodeJS, React e React Native, apresentando um projeto de ligação entre alunos e professores para aprendizado.
-Todo o conhecimento foi trazido pela RocketSeat(http://rocketseat.com.br/).
+Todo o conhecimento foi trazido pela [RocketSeat](http://rocketseat.com.br/).
 
 Primeiramente, após baixar o NLW2_PROFFY, você precisa instalar as dependências para cada um dos diretórios server, web e mobile com:
 
